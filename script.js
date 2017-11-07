@@ -1,1 +1,1 @@
-//this is script file
+this is script file
