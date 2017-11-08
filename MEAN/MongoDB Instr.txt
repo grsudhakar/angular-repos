@@ -1,0 +1,103 @@
+Commands used in this video
+-------------------------------------------------------------
+//Mongo Data Dictionary Path-
+\data\db
+
+//Mongo Start
+
+mongod.exe
+
+//Connect Mongo
+
+mongo.exe
+
+
+//Basic Difference With MySQL
+
+RDBMS           MongoDB
+Database          Database
+Table                 Collection
+Tuple/Row        Document
+column              Field
+Table Join         Embedded Documents
+Primary Key     Primary Key (Default key _id provided by mongodb itself)
+
+
+
+//Sample Document
+
+{
+_id: ObjectId(7df78ad8902c)
+title: 'MongoDB demo'
+description: 'MongoDB is no sql database',
+by: 'sm tech',
+url: 'http://smtech',
+likes: 50
+}
+
+
+_id is a 12 bytes hexadecimal number which assures the uniqueness of every document. You can provide _id while inserting the document.
+
+//Create Database
+
+use smtech
+
+//To check your currently selected database
+
+db
+
+//check your databases list
+
+show dbs
+
+//Drop Database
+
+db.dropDatabase()
+
+//Query
+
+create the collection
+>db.createCollection("emp");
+
+//Create Collection
+
+db.createCollection("smcollection")
+
+//Drop Collection
+db.smcollection.drop()
+
+//Insert
+
+db.smcollection.insert({name: 'Souvik',age:24})
+
+db.smcollection.insert({name: 'Shree',age:24})
+
+//Multiple Insert
+
+db.smcollection.insert({name: 'Munnaf',age:24},{name:'Soumik',age:20})
+
+//find() and findOne()
+
+db.smcollection.find().pretty()
+
+db.smcollection.find({"age":24}).pretty()
+
+db.smcollection.find({"age":{$lt:22}}).pretty()
+
+//Update
+
+db.smcollection.update({'name':'Shree'},{$set:{'name':'Sg'}})
+
+//Delete
+
+db.smcollection.remove({'name':'Munnaf'})
+
+db.smcollection.remove({'age':24},1)
+
+//rename collection
+db.originalCollectionName.renameCollection('newCollectionName')
+
+
+Mongo DB Installation
+----------------------------
+https://github.com/mongodb/node-mongodb-native

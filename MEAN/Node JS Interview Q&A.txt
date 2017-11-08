@@ -1,0 +1,53 @@
+Node JS
+-----------
+
+What are the reasons of popularity of Node.js?
+What is Event Driven Programming followed in Node.js?
+What are the main advantages of using Node.js?
+What are the types of applications that can be built by using Node.js?
+Why Node.js is based on single threaded architecture?
+What are the different types of APIs available in Node.js?
+Can we run Node.js on Windows environment?
+What is Event Loop in Node.js?
+What are the disadvantages of Node.js?
+How can we handle blocking I/O operations in Node.js?
+What is the difference between Asynchronous and Non-blocking?
+What is the difference between Node.js and Ajax?
+What is the difference between Node.js and AngularJS?
+How will you import external libraries in Node.js?
+What happens if we call require() method to load same module multiple times in Node.js?
+What is REPL in Node.js?
+What are the popular REPL commands in Node.js?
+What is NPM in Node.js?
+Why Node.js application is scalable?
+What is the purpose of module.exports in Node.js?
+What is Tracing in Node.js?
+How will you debug an application in Node.js?
+What is a Child Process in  Node.js?
+What is a Cluster in  Node.js?
+What is closure in JavaScript?
+What is a Buffer in  Node.js?
+How will you convert a Buffer to JSON in  Node.js?
+Why do we use __filename in  Node.js?
+What is the use of Timers is  Node.js?
+What are the important APIs in Timers module in Node.js?
+What is EventEmitter in  Node.js?
+What is the use of net.Socket in Node.js?
+What are the important events of net.Socket in Node.js?
+Can we build a REST service in Node.js?
+What is the use of DNS module in Node.js?
+What are the important command line options in Node.js?
+How does Node.js work?
+How can we avoid Callback Hell in Node.js?
+How do you resolve unhandled exceptions in a Node.js program?
+What is a Callback function in Node.js?
+What are the most popular modules of Node.js?
+What is the difference between readFile and createReadStream in Node.js?
+What is the use of QueryString in Node.js?
+How will you get the amount of free memory on the server in which Node.js application is running?
+What is a Global object in Node.js?
+What are the security mechanisms available in Node.js?
+What is the use of Zlib in Node.js?
+How will you convert a Buffer content into readable String in Node.js?
+How do you write unit test cases in Node.js?
+What are the standard Javascript errors?

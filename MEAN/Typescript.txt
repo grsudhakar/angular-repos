@@ -1,0 +1,15 @@
+What is TypeScript?
+
+Superset of JavsScript developed by Microsoft
+Compiles to pian JavaScript
+Easily intergrated into JavaScript projects
+Designed for development of large applications
+
+What does TypeScript Offer?
+
+Static Type checking
+Class Based Objects
+Modularity
+ES6 Features
+Syntax closer to java and other high level languages
+
