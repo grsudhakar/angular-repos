@@ -1,0 +1,19 @@
+create products.json
+
+run commands below
+
+-->npm install -g json-server
+
+-->json-server -p 5555 products.json
+
+open localhost:5555
+
+open another window---->ng serve for angular4 folder
+
+Link:
+
+part-1: https://www.youtube.com/watch?v=HCHvrbAd1QA
+
+part-2: https://www.youtube.com/watch?v=WVlNj_6_-uA&t=588s
+
+part-3: https://www.youtube.com/watch?v=6T1TF7lgVSA

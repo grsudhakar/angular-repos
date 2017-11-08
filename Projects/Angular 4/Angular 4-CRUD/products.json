@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "T-shirt",
+      "color": "Yellow",
+      "id": 1
+    },
+    {
+      "name": "Jeans",
+      "color": "Orange",
+      "id": 3
+    },
+    {
+      "name": "Shirt",
+      "color": "Pink",
+      "id": 4
+    },
+    {
+      "name": "Kurta",
+      "color": "Blue",
+      "id": 5
+    },
+    {
+      "name": "Sudha",
+      "color": "Yellow",
+      "id": 6
+    }
+  ]
+}

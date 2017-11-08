@@ -1,0 +1,40 @@
+HTML5 CSS3
+----------
+1. What are the new fetaures in HTML5 and CSS3 ?
+
+HTML5
+-----
+  header
+  footer
+  SVG
+  navbar
+
+CSS3
+----
+  Meadia Queries
+  change the state 
+  screen devices
+  animations
+  css box model
+
+Code editor
+-----------
+  Sublime text
+  Atom
+  Webstrom
+  Visual Studio Code
+  
+
+  Preprocessor
+  --------------
+  A Scripting language that extends CSS and gets compiled into regular CSS syntax.
+  The Output is said to be a preprocessor form of the input data.
+  Cleaner code with the ability to do thnings on the fly.
+  Reusable and extendable code
+  Shareble code snippets and libraries
+  Easily produce CSS that works across multiple browsers
+  Is Sass(Sassy CSS) the only one out there?
+
+
+
+
